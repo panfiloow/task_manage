@@ -1,4 +1,4 @@
-# 📋 Task Manager - Flutter Приложение
+# 📋 Task Manage - Flutter Приложение
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue.svg)
 ![Dart](https://img.shields.io/badge/Dart-2.19+-blue.svg)
